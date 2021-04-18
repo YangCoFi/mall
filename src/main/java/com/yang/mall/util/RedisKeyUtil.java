@@ -1,5 +1,7 @@
 package com.yang.mall.util;
 
+import java.util.Set;
+
 /**
  * @ClassName RedisKeyUtil
  * @Description TODO
@@ -8,4 +10,5 @@ package com.yang.mall.util;
  **/
 public class RedisKeyUtil {
     public static final String GOOD_KEY = "good-";
+//    Set
 }
